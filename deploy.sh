@@ -23,5 +23,5 @@ git commit -m 'deploy'
 git push -f git@github.com:Burki24/SymconModule.git master:gh-pages
 
 cd ..
-remove ./dist
+rm ./dist
 cd -
