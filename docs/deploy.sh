@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Burki24/SymconModule.git master
+git push -f git@github.com:Burki24/SymconModule.git master:docs
 
 cd -
