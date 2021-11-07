@@ -5,7 +5,7 @@ Waagerechte, gerade Anzeige (CanvasGauges-Linear)
 Senkrechte, gerade Anzeige (CanvasGauges-Linear(vertical))
 Kompass (Anzeige von z.B. Windrichtung)
 
-<img src="https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Windrose.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge_Windrose.gif" width="200" />
 
 ## Titel
 Erklärt sich wohl von selber. :wink:
