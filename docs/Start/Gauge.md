@@ -1,10 +1,10 @@
 # Gauge
 ## Vorlage
 text|Bild
-:---|-----:
-Kreisförmigen Anzeige (CanvasGauges-Radial)|
+:-------------|----------------:
+Kreisförmigen Anzeige (CanvasGauges-Radial)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge/Gauge_Windrose.gif" width="200" />
 Waagerechte, gerade Anzeige (CanvasGauges-Linear)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge/Gauge_Waagerecht.gif" width="200" />
-Senkrechte, gerade Anzeige (CanvasGauges-Linear(vertical))|
+Senkrechte, gerade Anzeige (CanvasGauges-Linear(vertical))|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge/Gauge_Waagerecht.gif" width="200" />
 Kompass (Anzeige von z.B. Windrichtung)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge/Gauge_Windrose.gif" width="200" />
 
 ## Titel
