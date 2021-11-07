@@ -23,5 +23,8 @@ git commit -m 'deploy'
 git push -f git@github.com:Burki24/SymconModule.git master:gh-pages
 
 cd ..
-rm -f ./dist/*
+rm -f ./dist/Start/*
+rm -f ./dist/images/*
+rm -f ./dist/assets/*
+rm -f ./dist/.git/*
 cd -
