@@ -104,7 +104,7 @@ Bei der linearen Gauge sieht das Ganze dann so aus:
 
 ![Gauge_Scala_Color](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Scale_Color.png)
 
-## Einstellungen der Radialanzeige
+## Einstellungen der *Radialanzeige*
 
 Hier wird der Radial-Gauge bestimmt. Die Werte werden in Grad angegeben
 
@@ -116,7 +116,7 @@ Wenn ich einen Start und einen Endpunkt haben möchte, kann ich das mit verschie
 
 ![Gauge_Scale_individual_Circle](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Scale_Round.png)
 
-## Einstellungen der Linearanzeige
+## Einstellungen der *Linearanzeige*
 Seite Schritte bestimmt den Grundlegenden Aufbau des Linear-Gauge
 
 Beidseitig:
