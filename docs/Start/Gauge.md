@@ -2,7 +2,7 @@
 ## Vorlage
 text|Bild
 :-------------|----------------:
-Kreisförmigen Anzeige (CanvasGauges-Radial)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge/Gauge_Windrose.gif" width="200" />
+Kreisförmigen Anzeige (CanvasGauges-Radial)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge_radial.gif" width="200" />
 Waagerechte, gerade Anzeige (CanvasGauges-Linear)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge_Waagerecht.gif" width="200" />
 Senkrechte, gerade Anzeige (CanvasGauges-Linear(vertical))|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge_Senkrecht.gif" width="50" />
 Kompass (Anzeige von z.B. Windrichtung)|<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge_Windrose.gif" width="200" />
