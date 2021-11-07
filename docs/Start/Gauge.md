@@ -24,7 +24,7 @@ Der Pfeil geht immer über die Mitte der Gauge hinaus oder endet in der Mitte. E
 
 Dabei bestimmt der Startpunkt die Länge der gegenpoligen Seite (Süd). Der Endpunkt Die Länge der Nordnadel:
 
-<img src="https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Needle_Settings.png" width="450" />
+<img src="https://raw.githubusercontent.com/Burki24/SymconModule/gh-pages/images/Gauge_Platte_Verlauf.gif" width="450" />
 
 Ergibt demzufolge diese Nadel:
 
