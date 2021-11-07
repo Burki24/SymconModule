@@ -1,5 +1,5 @@
 # Gauge
-# Vorlage
+## Vorlage
 Kreisförmigen Anzeige (CanvasGauges-Radial)
 Waagerechte, gerade Anzeige (CanvasGauges-Linear)
 Senkrechte, gerade Anzeige (CanvasGauges-Linear(vertical))
@@ -7,10 +7,10 @@ Kompass (Anzeige von z.B. Windrichtung)
 
 <img src="https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Windrose.gif" width="200" />
 
-# Titel
+## Titel
 Erklärt sich wohl von selber. :wink:
 
-# Platte
+## Platte
 Gestaltet den Hintergrund. Die Platte wird immer als ganzes dargestellt. Sollte also nicht zum Einsatz kommen, wenn Ihr nur einen Halbkreis darstellen wollt:
 
 <img src="https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Plate.png" width="200" />
@@ -19,7 +19,7 @@ Bei der Platte kann man den Farbverlauf gestalten. Dabei ist Haupt die Farbe des
 
 <img src="https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Plate_Color.png" width="350" />
 
-# Nadel/Zeiger
+## Nadel/Zeiger
 Die Nadel definiert das Design des Anzeigers. Hier gibt es zwei Formen:
 Der Pfeil geht immer über die Mitte der Gauge hinaus oder endet in der Mitte. Er stellt eine Kompassnadel dar:
 
@@ -38,14 +38,14 @@ Hier bestimmt der Startpunkt die Entfernung vom Mittelpunkt und das Ende die Nä
 
 ![Gauge_Needle_Line](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Needle_Line.png)
 
-# Wert
+## Wert
 Hier kann definiert werden, mit welcher Farbe/Schrift der Wert als Text UNTER der Gauge dargestellt wird. WICHTIG: Wenn Ihr eine Halbkreis-Gauge entwerft, solltet Ihr die Nutzung der Wert-Anzeige vermeiden. Diese erscheint nicht direkt unter dem Halbkreis, sondern unterhalb des gedachten Vollkreis, also weit entfernt von der dargestellten Gauge:
 
 ![Gauge_Wert](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Wert.png)
 
 Das lässt sich auch nicht anders ausrichten.
 
-# Fortschrittsbalken
+## Fortschrittsbalken
 Neben der Nadel/Zeigerdarstellung bietet die Gauge noch die Anzeige eines Fortschrittbalkens:
 
 ![Gauge_Fortschritt](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Fortschritt.png)
@@ -62,7 +62,7 @@ Wer jetzt keine Nadel/Zeiger mag, kann auch nur mit dem Fortschrittsbalken arbei
 
 Dazu wird die Nadel/Zeiger einfach ausgeschaltet.
 
-# Schritte/Zwischenwerte
+## Schritte/Zwischenwerte
 **WICHTIG: Die Zwischenschritte sind unabhängig von den vergebenen Maximalwerten der Skala. Wenn Ihr also bei min. und max. die Rahmenbedingungen für die Anzeige der Werte bestimmt hat dass keinen Einfluss auf die hier vergebenen „Strokes“.**
 
 **Wenn Ihr mit Highlights arbeiten wollt, achtet darauf, dass ihr "Exact ticks" aktiviert habt, sonst kommt es zu Fehldarstellungen.**
@@ -104,7 +104,7 @@ Bei der linearen Gauge sieht das Ganze dann so aus:
 
 ![Gauge_Scala_Color](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Scale_Color.png)
 
-# Einstellungen der Radialanzeige
+## Einstellungen der Radialanzeige
 
 Hier wird der Radial-Gauge bestimmt. Die Werte werden in Grad angegeben
 
@@ -116,7 +116,7 @@ Wenn ich einen Start und einen Endpunkt haben möchte, kann ich das mit verschie
 
 ![Gauge_Scale_individual_Circle](https://github.com/Acer90/SymconModule/blob/alpha/imgs/Gauge_Scale_Round.png)
 
-# Einstellungen der Linearanzeige
+## Einstellungen der Linearanzeige
 Seite Schritte bestimmt den Grundlegenden Aufbau des Linear-Gauge
 
 Beidseitig:
@@ -135,7 +135,7 @@ Bei den Werten (Nummern) verhält es sich genauso. Wählt Ihr die Senkrechte Var
 
 Auch bei den Linearen Gauges funktionieren Nadel und Fortschrittsbalken gleichermaßen.
 
-# Animation
+## Animation
 
 Die Gauges sind animiert (Ausschlag der Nadel/Zeiger und der Fortschrittsbalken). Hier könnt Ihr die Geschwindigkeit und den Effekt einstellen. Ich habe beispielsweise mal den Bounce-Effekt mit einer relativ langsamen Geschwindigkeit zur Veranschaulichung genommen:
 
